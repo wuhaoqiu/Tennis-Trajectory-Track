@@ -23,10 +23,6 @@ who gained score.
 
 ![alt text](https://github.com/wuhaoqiu/Tennis-Trajectory-Track/blob/master/screenshots/trajector_with_events.png)
 
-* Articles
-
-![alt text](https://github.com/wuhaoqiu/engr597-stable/blob/Linux-Version/screenshots/articles.png)
-
 * Ball Box 
 
 ![alt text](https://github.com/wuhaoqiu/Tennis-Trajectory-Track/blob/master/screenshots/ball.png)
